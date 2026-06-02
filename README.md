@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breath-on-my-neck/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Breath On My Neck](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breath-on-my-neck/) |
+| **Get License** | [Get License For Breath On My Neck](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breath-on-my-neck/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dust dancing in the fading light
+> I want to lose track of time tonight
+> Pull you close where the shadows fall
+> Let the silence answer every call
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
