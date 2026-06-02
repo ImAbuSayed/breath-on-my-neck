@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breath-on-my-neck/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Breath On My Neck](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breath-on-my-neck/) |
+| **Get License** | [License this song: Breath On My Neck](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breath-on-my-neck/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1c493420bb0fece61ab1b38136ad61c4c34083f47a59570f15c1cea53193a565` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
